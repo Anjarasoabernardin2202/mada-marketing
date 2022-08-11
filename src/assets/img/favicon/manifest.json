@@ -1,0 +1,20 @@
+{
+  "name": "Mada",
+  "short_name": "Mada",
+  "icons": [
+    {
+      "src": "/docs/4.3/assets/img/favicons/mada.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/docs/4.3/assets/img/favicons/mada.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "start_url": "/?utm_source=a2hs",
+  "theme_color": "#563d7c",
+  "background_color": "#563d7c",
+  "display": "standalone"
+}
